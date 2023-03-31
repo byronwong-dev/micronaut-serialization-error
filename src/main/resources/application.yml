@@ -1,0 +1,9 @@
+micronaut:
+  application:
+    name: serialization_test
+netty:
+  default:
+    allocator:
+      max-order: 3
+settings:
+  - locale: en
